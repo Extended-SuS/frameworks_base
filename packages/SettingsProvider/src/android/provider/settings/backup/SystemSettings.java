@@ -95,5 +95,6 @@ public class SystemSettings {
         Settings.System.OMNI_LOCKSCREEN_WEATHER_ENABLED,
         Settings.System.AICP_LOCKSCREEN_WEATHER_STYLE,
         Settings.System.QS_PANEL_STYLE,
+        Settings.System.RINGTONE_VIBRATION_PATTERN,
     };
 }
